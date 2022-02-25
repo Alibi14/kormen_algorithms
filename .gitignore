@@ -1,2 +1,4 @@
 venv/
 .idea/
+rsa.key
+rsa.key.pub
