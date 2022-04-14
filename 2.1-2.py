@@ -9,4 +9,4 @@ def insertion_sort(nums: list):
             j = j - 1
 
         nums[j+1] = key
-    # just for check
+    # just for check 2
